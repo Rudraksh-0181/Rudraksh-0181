@@ -21,9 +21,10 @@ Learning new technologies, building projects, and refining my creative skills.
 
 📩 **Email:** [S26BCAU0060@bennett.edu.in](mailto:S26BCAU0060@bennett.edu.in)
 
+<sub>Learning quietly. Creating meaningfully. Growing consistently.</sub>
+
 ---
 
-<sub>Learning quietly. Creating meaningfully. Growing consistently.</sub>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rudraksh_tomar_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rudraksh180) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:S26BCAU0060@bennett.edu.in) 
@@ -46,6 +47,6 @@ Learning new technologies, building projects, and refining my creative skills.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rudraksh-0181&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
