@@ -1,3 +1,29 @@
+# Hi, I'm Rudraksh 👋
+
+**BCA Student @ Bennett University · Cybersecurity · Creative Visuals**
+
+*Exploring technology. Creating visuals. Building my future.*
+
+---
+
+### About Me
+
+- 🎓 Pursuing BCA at Bennett University
+- 🔐 Exploring cybersecurity and programming
+- 🎬 Instagram content creator & video editor
+- 🎨 Interested in cinematic visuals and colour grading
+
+### Currently
+
+Learning new technologies, building projects, and refining my creative skills.
+
+### Connect With Me
+
+📩 **Email:** [S26BCAU0060@bennett.edu.in](mailto:S26BCAU0060@bennett.edu.in)
+
+---
+
+<sub>Learning quietly. Creating meaningfully. Growing consistently.</sub>
 
 
 ## 🌐 Socials:
